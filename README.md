@@ -1,1 +1,1 @@
-# sample-training-site
+# training-hub
